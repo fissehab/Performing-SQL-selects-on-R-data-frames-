@@ -1,9 +1,3 @@
-
-setwd("C:/Fish/R/SQL")
-options(jupyter.plot_mimetypes = 'image/png')
-options(repr.plot.width = 6)
-options(repr.plot.height = 4)
-
 require(downloader)
 library(dplyr)
 library(sqldf)
